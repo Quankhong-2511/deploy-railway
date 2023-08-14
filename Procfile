@@ -1,0 +1,1 @@
+web: gunicorn reportersqrj.wsgi --log-file -
